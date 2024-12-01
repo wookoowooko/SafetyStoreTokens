@@ -22,3 +22,8 @@ The application simulates a login process and saves the JWT token securely on th
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Medium
+
+[How to Securely Store JWT Tokens and Other Data Using DataStore and Android Keystore in Android in 2024](https://wookoo.medium.com/how-to-securely-store-jwt-tokens-and-other-data-using-datastore-and-android-keystore-in-android-ad434fb61af9).
+
